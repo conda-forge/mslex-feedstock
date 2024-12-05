@@ -1,5 +1,6 @@
 {% set name = "mslex" %}
 {% set version = "1.2.0" %}
+{% set python_min = "3.5" %}
 
 package:
   name: {{ name|lower }}
